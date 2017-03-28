@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/epsitec-sa/babel-env-test#readme",
   "devDependencies": {
-    "babel-env": "^1.0.0"
+    "babel-env": "^1.5.1"
   }
 }
